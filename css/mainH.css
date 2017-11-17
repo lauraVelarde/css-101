@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    background: #F19EB8;
+}
+
+h1{
+    font-family: 'Lobster Two', cursive;
+    font-size: 4em;
+    background: #808B96;
+    display: inline-block;
+    color: #CFDB15;
+    padding: 15px;
+    border: 5px dashed #CFDB15;
+}
+
+ul li{
+    list-style: none;
+    padding: 15px;
+    margin:30px;
+    
+}
+
+ul li a{
+    text-decoration: none;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 2em;
+    color: #15DB9F;
+    background: #0F3B2E;
+    padding: 15px;
+    margin:10px;
+    border: 6px solid #15DB9F;
+    border-radius: 20px;
+}
